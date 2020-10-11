@@ -22,3 +22,6 @@ The SVG's and many of the factory-spec wiring diagrams list the wire size in EU 
 | 35.0 | 2  |
 | 50.0 | 1  |
 | 55.0 | 1/0|
+| 67.5 | 2/0|
+| 85.0 | 3/0|
+| 107  | 4/0|
