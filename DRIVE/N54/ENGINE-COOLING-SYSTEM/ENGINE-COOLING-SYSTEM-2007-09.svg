@@ -1,0 +1,841 @@
+<svg data-v-f35fd5a0="" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="overflow: hidden; width: 100%; min-height: 100vh;"><g id="viewport-20201011231052713" class="svg-pan-zoom_viewport" transform="matrix(1,0,0,1,0,0)" style="transform: matrix(1, 0, 0, 1, 0, 0);"><!--?xml version="1.0" encoding="UTF-8"?--> 
+<!--?xml-stylesheet href="../../styles/svg.css" type="text/css"?--> 
+<svg xmlns="http://www.w3.org/2000/svg" id="svgid" xml:space="preserve" viewBox="37 607 10182 3616" preserveAspectRatio="xMinYMin meet" zoomAndPan="magnify" version="1.0" width="100%" height="100%" contentscripttype="text/ecmascript" contentstyletype="text/css" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Schaltplan Viewer - Copyright BMW AG 2007</title>
+<style xml:space="preserve" type="text/css">path {fill-rule:evenodd; stroke-linecap:round; stroke-linejoin:round}
+rect {stroke-linejoin:miter}
+text.t1 {font-family:'Courier SWA',monospace;font-size:31;fill:#000000}
+path.white {fill:#FFFFFF;stroke:none}
+path.black {fill:#000000;stroke:none}
+path.stroke3 {fill:none;stroke:#000000;stroke-width:3}
+path.stroke4 {fill:none;stroke:#000000;stroke-width:4}
+path.stroke5 {fill:none;stroke:#000000;stroke-width:5}
+path.stroke6 {fill:none;stroke:#000000;stroke-width:6}
+path.stroke7 {fill:none;stroke:#000000;stroke-width:7 }
+path.stroke8 {fill:none;stroke:#000000;stroke-width:8 }
+path.stroke9 {fill:none;stroke:#000000;stroke-width:9 }
+path.stroke10 {fill:none;stroke:#000000;stroke-width:10 }
+path.stroke11 {fill:none;stroke:#000000;stroke-width:11}
+path.stroke14 {fill:none;stroke:#000000;stroke-width:14}</style>
+<desc>customer: BMW
+date: 24.07.2007
+time: 12:07:04
+language: British engl
+project: E65
+version: 1.0</desc>
+<g id="gid">
+<text class="t1"></text>
+<path style="fill:#DFDFDF;stroke:none" d="M 4457,2570 l 327,0 0,218 -327,0 0,-218 z"></path>
+<path class="stroke8" d="M 4457,2570 l 327,0 0,218 -327,0 0,-218"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 4457,1588 l 1527,0 0,328 -1527,0 0,-328 z"></path>
+<path class="stroke8" d="M 4457,1588 l 14,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 19,0 0,14"></path>
+<path class="stroke8" d="M 5984,1620 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,16 -14,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 4714,1916 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -19,0 0,-14 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-16"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 5657,2570 l 327,0 0,218 -327,0 0,-218 z"></path>
+<path class="stroke8" d="M 5657,2570 l 327,0 0,218 -327,0 0,-218"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 6966,1588 l 327,0 0,219 -327,0 0,-219 z"></path>
+<path class="stroke8" d="M 6966,1588 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,17 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,17 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-17 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-17 l 0,-27 m 0,-16 l 0,-15"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 6966,2570 l 327,0 0,218 -327,0 0,-218 z"></path>
+<path class="stroke8" d="M 6966,2570 l 327,0 0,218 -327,0 0,-218"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 6857,1479 l 654,0 0,437 -654,0 0,-437 z"></path>
+<path class="stroke8" d="M 6857,1479 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 17,0 0,15 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,16 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0"></path>
+<path class="stroke8" d="M 7060,1916 l -29,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -17,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-16"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 8247,2611 l 245,0 0,136 -245,0 0,-136 z"></path>
+<path class="stroke4" d="M 8247,2611 l 245,0 0,136 -245,0 0,-136"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 8492,1479 l 655,0 0,437 -655,0 0,-437 z"></path>
+<path class="stroke8" d="M 8492,1479 l 14,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 16,0 0,15 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,16 -14,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -18,0 l -29,0 m -17,0 l -29,0"></path>
+<path class="stroke8" d="M 8695,1916 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -16,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-16"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 8601,1588 l 328,0 0,219 -328,0 0,-219 z"></path>
+<path class="stroke8" d="M 8601,1588 l 14,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 16,0 0,13 m 0,17 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,17 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -16,0 0,-13 m 0,-17 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-17 l 0,-27 m 0,-16 l 0,-15"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 8165,2570 l 764,0 0,218 -764,0 0,-218 z"></path>
+<path class="stroke8" d="M 8165,2570 l 764,0 0,218 -764,0 0,-218"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 1840,3551 l 6652,0 0,328 -6652,0 0,-328 z"></path>
+<path class="stroke8" d="M 1840,3551 l 15,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0"></path>
+<path class="stroke8" d="M 3402,3551 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0"></path>
+<path class="stroke8" d="M 4979,3551 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0"></path>
+<path class="stroke8" d="M 6557,3551 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0"></path>
+<path class="stroke8" d="M 8134,3551 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 23,0 0,14 m 0,18 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,16 -15,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 7599,3879 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0"></path>
+<path class="stroke8" d="M 6022,3879 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 4444,3879 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 2867,3879 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -23,0 0,-14 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-16"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 967,934 l 328,0 0,218 -328,0 0,-218 z"></path>
+<path class="stroke8" d="M 967,934 l 14,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 2985,2393 l 327,0 0,136 -327,0 0,-136 z"></path>
+<path class="stroke4" d="M 2985,2393 l 327,0 0,136 -327,0 0,-136"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 913,2393 l 327,0 0,136 -327,0 0,-136 z"></path>
+<path class="stroke4" d="M 913,2393 l 327,0 0,136 -327,0 0,-136"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 858,2352 l 655,0 0,218 -655,0 0,-218 z"></path>
+<path class="stroke8" d="M 858,2352 l 655,0 0,218 -655,0 0,-218"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 2930,2352 l 655,0 0,218 -655,0 0,-218 z"></path>
+<path class="stroke8" d="M 2930,2352 l 655,0 0,218 -655,0 0,-218"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 422,934 l 327,0 0,218 -327,0 0,-218 z"></path>
+<path class="stroke8" d="M 422,934 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 313,825 l 1200,0 0,436 -1200,0 0,-436 z"></path>
+<path class="stroke8" d="M 313,825 l 15,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 15,0 0,15 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,30 m 0,19 l 0,30"></path>
+<path class="stroke8" d="M 1513,1196 l 0,30 m 0,18 l 0,17 -15,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -15,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-30"></path>
+<path class="stroke8" d="M 313,938 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-17"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 313,1698 l 1091,0 0,218 -1091,0 0,-218 z"></path>
+<path class="stroke8" d="M 313,1698 l 1091,0 0,218 -1091,0 0,-218"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 3040,934 l 327,0 0,218 -327,0 0,-218 z"></path>
+<path class="stroke8" d="M 3040,934 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 2494,934 l 327,0 0,218 -327,0 0,-218 z"></path>
+<path class="stroke8" d="M 2494,934 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 2385,825 l 1200,0 0,436 -1200,0 0,-436 z"></path>
+<path class="stroke8" d="M 2385,825 l 15,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 15,0 0,15 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,30 m 0,19 l 0,30"></path>
+<path class="stroke8" d="M 3585,1196 l 0,30 m 0,18 l 0,17 -15,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -15,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-30"></path>
+<path class="stroke8" d="M 2385,938 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-17"></path>
+<path style="fill:#DFDFDF;stroke:none" d="M 2385,1698 l 1091,0 0,218 -1091,0 0,-218 z"></path>
+<path class="stroke8" d="M 2385,1698 l 1091,0 0,218 -1091,0 0,-218"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 8274,2243 l 0,300"></path>
+<path class="stroke4" d="M 7075,2243 l 1199,0"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 5766,2815 l 0,709 m -1200,-709 l 0,709 m 0,-1581 l 0,600 m 1200,-600 l 0,600 m 1309,272 l 0,709 m 0,-1581 l 0,600"></path>
+<path class="stroke4" d="M 5493,3685 l -4,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,10 1,1 0,2 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0 1,1 2,0 1,1 11,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-10 -1,-1 0,-3 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -3,0 -1,-1 -4,0 m -40,68 l 79,0 0,-76 -79,0 0,76 m 39,-32 l 0,24 m -20,-25 l 41,0 m -45,-21 l  12,21 m 38,-21 l -13,21 m -26,-2 l -8,-7 6,-3 2,10 m -867,-1076 l -25,23 0,-7 -6,-2 32,-15 m -26,18 l 24,-16 m -24,19 l 11,-7 m -14,2 l 11,-7 m -57,41 l 48,-32 m -21,-28 l 0,-61 m -11,61 l 23,0 0,85 -23,0 0,-85 m 11,157 l 0,-72"></path>
+<path class="white" d="M 4580,3551 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 4567,3551 l -1,0 0,-11 1,0 0,11 z"></path>
+<path class="stroke4" d="M 4567,3551 l -1,0 0,-11 1,0 0,11"></path>
+<path class="stroke6" d="M 4553,3538 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="4605" y="3516"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X60001');">X60001</a>
+</tspan>
+
+<tspan x="4505" y="3516">6</tspan>
+</text>
+<path class="white" d="M 4553,2788 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 4565,2788 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 4565,2788 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 4579,2802 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="4605" y="2847"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X87');">X87</a>
+</tspan>
+
+<tspan x="4505" y="2847">1</tspan>
+
+<tspan x="4605" y="3284">M_TKA</tspan>
+
+<tspan x="4605" y="3341">0.35</tspan>
+
+<tspan x="4605" y="3384">SW/GE</tspan>
+</text>
+<path class="stroke4" d="M 4566,3739 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 7,-5 l -11,0 m 1,-3 l 9,0 m -9,5 l 9,0"></path>
+<text class="t2"><tspan x="4488" y="3749">31</tspan>
+</text>
+<path class="stroke4" d="M 4566,3551 l 0,65 m -10,85 l 21,0 0,-85 -21,0 0,85 m 10,-109 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m -10,150 l 22,0 m 37,-155 l 24,0 -24,11 0,-22 24,11 m -24,-4 l 16,0 m -16,-3 l 9,0 m -9,11 l 15,0 m -15,3 l 7,0 m -55,107 l 0,27 m -5,-141 l 64,0 m -63,-3 l 9,0 m -9,6 l 9,0"></path>
+<text class="t3"><tspan x="4823" y="2579">.</tspan>
+</text>
+<text class="t2"><tspan x="4823" y="2615"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('B604');">B604</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="4823" y="2684">Temperature sen-</tspan>
+
+<tspan x="4823" y="2728">sor at radiator out-</tspan>
+
+<tspan x="4823" y="2772">let</tspan>
+</text>
+<path class="white" d="M 4580,2570 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 4567,2570 l -1,0 0,-11 1,0 0,11 z"></path>
+<path class="stroke4" d="M 4567,2570 l -1,0 0,-11 1,0 0,11"></path>
+<path class="stroke6" d="M 4553,2556 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="4605" y="2534"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X87');">X87</a>
+</tspan>
+
+<tspan x="4505" y="2534">2</tspan>
+</text>
+<path class="white" d="M 4553,1916 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 4565,1916 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 4565,1916 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 4579,1929 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="4605" y="1975"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X60001');">X60001</a>
+</tspan>
+
+<tspan x="4482" y="1975">19</tspan>
+
+<tspan x="4605" y="2329">A_TKA</tspan>
+
+<tspan x="4605" y="2386">0.35</tspan>
+
+<tspan x="4605" y="2430">SW/GR</tspan>
+</text>
+<path class="stroke8" d="M 4457,2570 l 327,0 0,218 -327,0 0,-218"></path>
+<text class="t3"><tspan x="6022" y="1597">.</tspan>
+</text>
+<text class="t2"><tspan x="6022" y="1633"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('A6000');">A6000</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="6022" y="1702">DME control unit</tspan>
+</text>
+<path class="stroke4" d="M 5896,3813 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 7,-5 l -11,0 m 1,-3 l 9,0 m -9,6 l 9,0"></path>
+<text class="t2"><tspan x="5819" y="3823">31</tspan>
+</text>
+<path class="stroke4" d="M 5886,3816 l 22,0 m -142,-265 l 0,60 m -11,0 l 22,0 0,85 -22,0 0,-85 m 7,140 l 0,5 1,1 0,3 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0 1,1 3,0 1,1 10,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-11 -1,-1 0,-2 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -2,0 -1,-1 -10,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,3 m 4,-54 l  0,40 m 6,21 l 41,0 m -45,-21 l 12,21 m 36,-20 l -2,10 -6,-3 8,-7 m -23,20 l 0,61 m 12,-61 l 12,-21 80,0 0,66 m -131,-213 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -4,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 1,0 m 49,-5 l 23,0 -23,11 0,-22 23,11 m -23,-3 l 16,0 m -16,-4 l 8,0 m -8,11 l 14,0 m -14,3 l 6,0 m -60,-7 l 65,0 m -64,-3 l 10,0 m -10,6 l 9,0 m 1435,226 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 7,-5 l -11,0 m 1,-3 l 9,0 m -9,6 l 9,0"></path>
+<text class="t2"><tspan x="7127" y="3823">31</tspan>
+</text>
+<path class="stroke4" d="M 7194,3816 l 22,0 m -141,-265 l 0,60 m -11,0 l 21,0 0,85 -21,0 0,-85 m 6,140 l 0,5 1,1 0,3 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0 1,1 3,0 1,1 10,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-11 -1,-1 0,-2 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -2,0 -1,-1 -10,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,3 m 5,-54 l  0,40 m 5,21 l 41,0 m -45,-21 l 12,21 m 37,-20 l -2,10 -6,-3 8,-7 m -23,20 l 0,61 m 12,-61 l 12,-21 79,0 0,66 m -131,-213 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 50,-5 l 23,0 -23,11 0,-22 23,11 m -23,-3 l 15,0 m -15,-4 l 8,0 m -8,11 l 14,0 m -14,3 l 6,0 m -60,-7 l 65,0 m -64,-3 l 9,0 m -9,6 l 9,0"></path>
+<text class="t3"><tspan x="6022" y="2579">.</tspan>
+</text>
+<text class="t2"><tspan x="5804" y="2329">A_TMOT</tspan>
+
+<tspan x="7113" y="2329">U_HR&lt;37</tspan>
+
+<tspan x="5804" y="2386">0.5</tspan>
+
+<tspan x="7113" y="2386">0.5</tspan>
+
+<tspan x="7113" y="2430">OR</tspan>
+
+<tspan x="5804" y="2430">GE/RT</tspan>
+
+<tspan x="6022" y="2615"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('B6236a');">B6236a</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="6022" y="2684">Engine coolant</tspan>
+
+<tspan x="6022" y="2728">temperature sen-</tspan>
+
+<tspan x="6022" y="2772">sor</tspan>
+</text>
+<path class="stroke4" d="M 5779,3538 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m -1728,-1816 l -4,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,10 1,1 0,2 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0  1,1 2,0 1,1 11,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-10 -1,-1 0,-3 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -3,0 -1,-1 -4,0 m -41,68 l 79,0 0,-76 -79,0 0,76 m 40,-32 l 0,24 m -21,-25 l 41,0"></path>
+<path class="stroke4" d="M 5305,1736 l 12,21 m 38,-21 l -12,21 m -27,-2 l -8,-7 6,-3 3,10"></path>
+<text class="t2"><tspan x="5804" y="3284">M_TMOT</tspan>
+
+<tspan x="5804" y="3341">0.5</tspan>
+
+<tspan x="5804" y="3384">SW/VI</tspan>
+</text>
+<text class="t3"><tspan x="8531" y="3560">.</tspan>
+</text>
+<text class="t2"><tspan x="8531" y="3596"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('A6000');">A6000</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="8531" y="3665">DME control unit</tspan>
+</text>
+<path class="stroke4" d="M 5813,2646 l -25,23 -1,-7 -6,-3 33,-14 m -26,17 l 23,-16 m -24,20 l 12,-7 m -14,2 l 11,-8 m -57,42 l 48,-32 m -21,-28 l 0,-65 m -11,65 l 22,0 0,85 -22,0 0,-85 m 11,153 l 0,-68"></path>
+<text class="t3"><tspan x="7331" y="2579">.</tspan>
+</text>
+<text class="t2"><tspan x="7331" y="2615"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('Y6279');">Y6279</a>
+</tspan>
+
+<tspan x="7113" y="2956">S_KFK</tspan>
+
+<tspan x="7113" y="3013">0.5</tspan>
+
+<tspan x="7113" y="3057">WS</tspan>
+</text>
+<text class="t2"><tspan x="7331" y="2684">Characteristic map</tspan>
+
+<tspan x="7331" y="2728">thermostat</tspan>
+</text>
+<path class="stroke4" d="M 7121,2646 l -25,23 0,-7 -6,-3 32,-14 m -26,21 l 11,-7 m -14,2 l 12,-8 m -58,42 l 49,-33 24,-16 m -45,-11 l 0,-65 m -12,65 l 23,0 0,85 -23,0 0,-85 m 12,153 l 0,-68"></path>
+<path class="white" d="M 5752,1916 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 5765,1916 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 5765,1916 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 5779,1929 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="5804" y="1975"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X60007');">X60007</a>
+</tspan>
+
+<tspan x="5705" y="1975">4</tspan>
+</text>
+<path class="stroke8" d="M 4457,1588 l 14,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 29,0 m 18,0 l 30,0 m 18,0 l 19,0 0,14"></path>
+<path class="stroke8" d="M 5984,1620 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,16 -14,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 4714,1916 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -29,0 m -18,0 l -30,0 m -18,0 l -19,0 0,-14 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-16"></path>
+<path class="white" d="M 5780,2570 l -28,0 0,-27 28,0 0,27 z"></path>
+<path class="black" d="M 5767,2570 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 5767,2570 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 5753,2556 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="5804" y="2534"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X6236');">X6236</a>
+</tspan>
+
+<tspan x="5705" y="2534">1</tspan>
+</text>
+<path class="white" d="M 5752,2788 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 5765,2788 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 5765,2788 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 5779,2802 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="5804" y="2847"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X6236');">X6236</a>
+</tspan>
+
+<tspan x="5705" y="2847">2</tspan>
+</text>
+<path class="stroke8" d="M 5657,2570 l 327,0 0,218 -327,0 0,-218"></path>
+<path class="white" d="M 7088,2570 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 7076,2570 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 7076,2570 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 7061,2556 l 0,-3 1,-1 0,-1 1,-1 0,-1 4,-4 1,0 1,-1 1,0 1,-1 7,0 1,1 1,0 1,1 1,0 4,4 0,1 1,1 0,1 1,1 0,3"></path>
+<text class="t2"><tspan x="7113" y="2534"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X6279');">X6279</a>
+</tspan>
+
+<tspan x="7013" y="2534">1</tspan>
+</text>
+<path class="white" d="M 7061,2788 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 7074,2788 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 7074,2788 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 7088,2802 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="7113" y="2847"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X6279');">X6279</a>
+</tspan>
+
+<tspan x="7013" y="2847">2</tspan>
+</text>
+<path class="white" d="M 5780,3551 l -28,0 0,-27 28,0 0,27 z"></path>
+<path class="black" d="M 5767,3551 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 5767,3551 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 5753,3538 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="5682" y="3516">17</tspan>
+</text>
+<path class="white" d="M 7088,3551 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 7076,3551 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 7076,3551 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 7061,3538 l 0,-3 1,-1 0,-1 1,-1 0,-1 4,-4 1,0 1,-1 1,0 1,-1 7,0 1,1 1,0 1,1 1,0 4,4 0,1 1,1 0,1 1,1 0,3"></path>
+<text class="t2"><tspan x="6990" y="3516">19</tspan>
+</text>
+<path class="white" d="M 7061,1916 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 7074,1916 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 7074,1916 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 7088,1929 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="7113" y="1975"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X11005');">X11005</a>
+</tspan>
+
+<tspan x="7013" y="1975">4</tspan>
+</text>
+<path class="stroke4" d="M 7091,1666 l -33,0 0,96 33,0 0,-96 m -16,141 l 0,-141 m -8,-14 l 15,0 m -16,2 l 17,0 m -18,3 l 19,0 m -19,2 l 20,0 m -19,3 l 17,0 m -16,2 l 15,0 m -12,-15 l 9,0 m 1,17 l 3,-3 0,-1 1,-1 0,-6 -1,-1 0,-1 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -1,0 -1,-1 -5,0 -1,1 -1,0 -1,1 -1,0 -1,1 0,1 -2,2 0,7 1,1 0,1 1,1 3,2"></path>
+<text class="t2"><tspan x="7051" y="1634">87</tspan>
+</text>
+<path class="stroke4" d="M 7075,1807 l 0,109"></path>
+<text class="t2"><tspan x="7331" y="1620"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('F37');">F37</a>
+</tspan>
+
+<tspan x="7140" y="1743">30A</tspan>
+</text>
+<path class="stroke8" d="M 6966,1588 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,17 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,17 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-17 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-17 l 0,-27 m 0,-16 l 0,-15 m 0,982 l 327,0 0,218 -327,0 0,-218"></path>
+<path class="stroke4" d="M 4572,1749 l -11,0 m 1,-3 l 9,0 m -9,6 l 9,0 m -5,23 l 0,-21 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m -9,21 l 21,0 0,85 -21,0 0,-85 m -26,-26 l 74,0 m -38,111 l 0,56"></path>
+<text class="t2"><tspan x="4544" y="1732">15</tspan>
+</text>
+<path class="stroke4" d="M 4566,1892 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 50,-5 l 23,0 -23,10 0,-21 23,11 m -23,-4 l 15,0 m -15,-3 l 8,0 m -8,10 l 14,0 m -14,4 l 6,0 m -60,-7 l 65,0 m -64,-3 l 9,0 m -9,6 l 9,0 m 1194,-136 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 7,-5 l -11,0 m 1,-3 l 10,0 m -10,6 l 9,0 m -4,2 l 0,21 m -11,0 l 22,0 0,85 -22,0 0,-85 m -26,-26 l 74,0 m -37,111 l 0,56"></path>
+<text class="t2"><tspan x="5744" y="1732">15</tspan>
+</text>
+<path class="stroke4" d="M 5766,1892 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 49,-5 l 24,0 -24,10 0,-21 24,11 m -24,-4 l 16,0 m -16,-3 l 9,0 m -9,10 l 14,0 m -14,4 l 7,0 m -60,-7 l 64,0 m -63,-3 l 9,0 m -9,6 l 9,0"></path>
+<path class="stroke8" d="M 6857,1479 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 17,0 0,15 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,16 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0"></path>
+<path class="stroke8" d="M 7060,1916 l -29,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -17,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-16"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 8710,1943 l 0,600 m -436,272 l 0,709 m 436,-709 l 0,382"></path>
+<path class="white" d="M 8288,3551 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 8275,3551 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 8275,3551 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 8261,3538 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="8313" y="3516"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X60007');">X60007</a>
+</tspan>
+
+<tspan x="8190" y="3516">26</tspan>
+</text>
+<path class="stroke4" d="M 8727,1666 l -33,0 0,96 33,0 0,-96 m -17,141 l 0,-141 m -7,-14 l 15,0 m -16,2 l 17,0 m -18,3 l 19,0 m -19,2 l 19,0 m -19,3 l 18,0 m -16,2 l 15,0 m -12,-15 l 9,0 m 1,17 l 3,-3 0,-1 1,-1 0,-6 -1,-1 0,-1 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -1,0 -1,-1 -5,0 -1,1 -1,0 -1,1 -1,0 -1,1 0,1 -2,2 0,7 1,1 0,1 3,3"></path>
+<text class="t2"><tspan x="8687" y="1634">30</tspan>
+</text>
+<text class="t3"><tspan x="8967" y="2579">.</tspan>
+</text>
+<text class="t2"><tspan x="8967" y="2615"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('M6035');">M6035</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="8967" y="2684">Electric coolant</tspan>
+
+<tspan x="8967" y="2728">pump</tspan>
+</text>
+<path class="white" d="M 8724,2570 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 8711,2570 l -1,0 0,-11 1,0 0,11 z"></path>
+<path class="stroke4" d="M 8711,2570 l -1,0 0,-11 1,0 0,11"></path>
+<path class="stroke6" d="M 8697,2556 l 0,-3 1,-1 0,-1 1,-1 0,-1 4,-4 1,0 1,-1 1,0 1,-1 7,0 1,1 1,0 1,1 1,0 4,4 0,1 1,1 0,1 1,1 0,3"></path>
+<text class="t2"><tspan x="8749" y="2534"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X6035');">X6035</a>
+</tspan>
+
+<tspan x="8649" y="2534">3</tspan>
+</text>
+<path class="white" d="M 8697,2788 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 8710,2788 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 8710,2788 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 8724,2802 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="8749" y="2847"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X6035');">X6035</a>
+</tspan>
+
+<tspan x="8649" y="2847">4</tspan>
+</text>
+<path class="white" d="M 8260,2788 l 28,0 0,27 -28,0 0,-27 z"></path>
+<path class="black" d="M 8273,2788 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 8273,2788 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 8287,2802 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="8749" y="2329">U_30&lt;7</tspan>
+
+<tspan x="8749" y="2386">6.0</tspan>
+
+<tspan x="8749" y="2430">RT</tspan>
+
+<tspan x="8213" y="2847">2</tspan>
+
+<tspan x="8313" y="2956">D_BSD</tspan>
+
+<tspan x="8749" y="2956">31</tspan>
+
+<tspan x="8749" y="3013">6.0</tspan>
+
+<tspan x="8313" y="3013">0.5</tspan>
+
+<tspan x="8749" y="3057">BR</tspan>
+
+<tspan x="8313" y="3057">VI</tspan>
+</text>
+<path class="stroke4" d="M 8287,2802 l 28,0 m 14,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0 m 14,0 l 28,0 m 14,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0 m -325,-153 l -4,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,10 1,1 0,2 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0 1,1 2,0 1,1 11,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-10 -1,-1 0,-3 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0  -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -3,0 -1,-1 -4,0 m -41,68 l 79,0 0,-76 -79,0 0,76 m 40,-32 l 0,24 m -21,-25 l 41,0 m -45,-21 l 12,21 m 38,-21 l -12,21 m -27,-2 l -8,-7 6,-3 3,10 m -110,-71 l 245,0 0,136 -245,0 0,-136 m 423,103 l 0,17 -28,0 0,-17 m 50,-35 l 0,-5 -1,-1 0,-4 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -1,-1 0,-1 -3,-3 0,-1 -5,-5 -1,0 -3,-3 -1,0 -1,-1 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -4,0 -1,-1 -10,0 -1,1 -4,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -1,1 -1,0 -3,3 -1,0 -5,5 0,1 -3,3 0,1 -1,1 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,4 -1,1 0,10 1,1 0,4 1,1 0,2 1,1 0,1 1,1 0,1 1,1 0,1  3,3 0,1 5,5 1,0 3,3 1,0 1,1 1,0 1,1 1,0 1,1 2,0 1,1 4,0 1,1 10,0 1,-1 4,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 1,-1 1,0 3,-3 1,0 5,-5 0,-1 3,-3 0,-1 1,-1 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-4 1,-1 0,-4 m -26,8 l 0,-19 -9,19 -9,-19 0,19 m -1,8 l 18,0 m -23,32 l 28,0 m -28,-3 l 28,0 m -28,-4 l 28,0 m -28,-3 l 28,0 m -28,-73 l 0,-17 28,0 0,17 m 0,-14 l -28,0 m 28,3 l -28,0 m 28,4 l -28,0 m 28,3 l -28,0 m -150,-22 l 164,0 0,9 m -164,112 l 164,0 0,-9"></path>
+<path class="white" d="M 8697,1916 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 8710,1916 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 8710,1916 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 8724,1929 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="8749" y="1975"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X8684');">X8684</a>
+</tspan>
+
+<tspan x="8649" y="1975">2</tspan>
+</text>
+<path class="stroke8" d="M 8492,1479 l 14,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 16,0 0,15 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,16 -14,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -18,0 l -29,0 m -17,0 l -29,0"></path>
+<path class="stroke8" d="M 8695,1916 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -16,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-16"></path>
+<path class="stroke4" d="M 8710,1807 l 0,109"></path>
+<text class="t2"><tspan x="8967" y="1620"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('F07');">F07</a>
+</tspan>
+
+<tspan x="8776" y="1743">40A</tspan>
+</text>
+<path class="stroke8" d="M 8601,1588 l 14,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 16,0 0,13 m 0,17 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,17 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -16,0 0,-13 m 0,-17 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-17 l 0,-27 m 0,-16 l 0,-15"></path>
+<text class="t3"><tspan x="9185" y="1488">.</tspan>
+</text>
+<text class="t2"><tspan x="9185" y="1524"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('A8684');">A8684</a>
+</tspan>
+
+<tspan x="8313" y="2329">U_HR&lt;37</tspan>
+
+<tspan x="8313" y="2386">0.5</tspan>
+
+<tspan x="8313" y="2430">OR</tspan>
+</text>
+<text class="t2"><tspan x="9185" y="1593">Fuse carrier, en-</tspan>
+
+<tspan x="9185" y="1637">gine electronics</tspan>
+</text>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 8438,2243 l -164,0"></path>
+<path class="stroke4" d="M 8438,2261 l 40,-18 -40,-19 0,37 m 0,-26 l 24,0 m -24,4 l 31,0 m -31,4 l 40,0 m -40,3 l 31,0 m -31,4 l 23,0 m -23,4 l 15,0 m -15,3 l 7,0 m -7,-25 l 16,0 m -16,-4 l 9,0 m -9,-4 l 1,0"></path>
+<path class="white" d="M 8270,2226 l -1,1 -2,0 -2,2 -1,0 -5,5 0,1 -1,1 0,2 -1,1 0,7 1,1 0,2 1,1 0,1 5,5 1,0 2,2 2,0 1,1 8,0 1,-1 2,0 2,-2 1,0 5,-5 0,-1 1,-1 0,-2 1,-1 0,-7 -1,-1 0,-2 -1,-1 0,-1 -5,-5 -1,0 -2,-2 -2,0 -1,-1 -8,0 z"></path>
+<path class="stroke4" d="M 8274,2236 l -2,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 4,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -1,0 m -6,2 l 10,0 m -11,2 l 13,0 m -14,2 l 14,0 m -14,2 l 14,0 m -13,1 l 13,0 m -12,2 l 11,0 m -9,2 l 7,0 m -7,-13 l 7,0"></path>
+<path class="white" d="M 8288,2570 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 8275,2570 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 8275,2570 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 8261,2556 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="8213" y="2534">1</tspan>
+</text>
+<path class="stroke8" d="M 8724,3224 l -27,0"></path>
+<path class="white" d="M 8717,3215 l 6,-1 0,-8 -1,-1 0,-1 -2,-2 0,-1 -1,-1 -1,0 -2,-2 -2,0 -1,-1 -6,0 -1,1 -2,0 -2,2 -1,0 -1,1 0,1 -2,2 0,1 -1,1 0,8 6,1 0,-2 1,-1 0,-1 2,-2 1,0 1,-1 4,0 1,1 1,0 2,2 0,1 1,1 0,2 z"></path>
+<path class="stroke4" d="M 8710,3208 l -1,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 3,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -1,0 m -6,2 l 11,0 m -12,2 l 13,0 m -13,2 l 13,0 m -13,2 l 13,0 m -13,2 l 13,0 m -11,1 l 9,0 m -7,2 l 5,0 m -5,-13 l 5,0"></path>
+<text class="t2"><tspan x="8749" y="3188"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X6455');">X6455</a>
+</tspan>
+</text>
+<path class="white" d="M 7071,2226 l -1,1 -2,0 -1,1 -1,0 -5,5 0,1 -2,2 0,2 -1,1 0,8 1,1 0,2 1,1 0,1 6,6 1,0 1,1 2,0 1,1 7,0 1,-1 2,0 1,-1 1,0 6,-6 0,-1 1,-1 0,-2 1,-1 0,-8 -1,-1 0,-2 -2,-2 0,-1 -5,-5 -1,0 -1,-1 -2,0 -1,-1 -7,0 z"></path>
+<path class="stroke4" d="M 7074,2236 l -2,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 5,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -2,0 m -5,2 l 10,0 m -11,2 l 12,0 m -13,2 l 13,0 m -14,2 l 15,0 m -14,1 l 13,0 m -11,2 l 10,0 m -8,2 l 6,0 m -7,-13 l 7,0 m 1209,320 l 28,0 m 14,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0 m 14,0 l 28,0 m 14,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0 m 13,0 l 29,0"></path>
+<text class="t3"><tspan x="7549" y="1488">.</tspan>
+</text>
+<text class="t2"><tspan x="7549" y="1524"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('A4010');">A4010</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="7549" y="1593">Junction box</tspan>
+</text>
+<path class="stroke8" d="M 8165,2570 l 764,0 0,218 -764,0 0,-218"></path>
+<path class="stroke4" d="M 7088,3538 l 29,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 1949,3170 l 0,354"></path>
+<path class="white" d="M 1963,3551 l -28,0 0,-27 28,0 0,27 z"></path>
+<path class="black" d="M 1950,3551 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 1950,3551 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 1936,3538 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="1987" y="3284">T_ELUE</tspan>
+
+<tspan x="1987" y="3349">0.5</tspan>
+
+<tspan x="1987" y="3393">SW/BL</tspan>
+
+<tspan x="1888" y="3516">8</tspan>
+</text>
+<path class="stroke4" d="M 2079,3813 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 7,-5 l -11,0 m 1,-3 l 9,0 m -9,6 l 9,0"></path>
+<text class="t2"><tspan x="2002" y="3823">31</tspan>
+</text>
+<path class="stroke4" d="M 2069,3816 l 22,0 m -142,-265 l 0,60 m -11,0 l 22,0 0,85 -22,0 0,-85 m 7,140 l 0,5 1,1 0,3 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0 1,1 3,0 1,1 10,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-11 -1,-1 0,-2 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -2,0 -1,-1 -10,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,3 m 4,-54 l  0,40 m 6,21 l 41,0 m -45,-21 l 12,21 m 36,-20 l -2,10 -6,-3 8,-7 m -23,20 l 0,61 m 12,-61 l 12,-21 80,0 0,66 m -131,-213 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -4,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 1,0 m 49,-5 l 23,0 -23,11 0,-22 23,11 m -23,-3 l 16,0 m -16,-4 l 8,0 m -8,11 l 14,0 m -14,3 l 6,0 m -60,-7 l 65,0 m -64,-3 l 10,0 m -10,6 l 9,0"></path>
+<text class="t3"><tspan x="2287" y="3182">J274</tspan>
+</text>
+<text class="t2"><tspan x="2287" y="3218">electric fan 600</tspan>
+
+<tspan x="2287" y="3262">Watt</tspan>
+</text>
+<text class="t3"><tspan x="215" y="3182">J273</tspan>
+</text>
+<text class="t2"><tspan x="215" y="3218">electric fan 400</tspan>
+
+<tspan x="215" y="3262">Watt</tspan>
+</text>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 1949,3170 l 0,-11"></path>
+<path class="white" d="M 1969,3154 l -5,5 -1,0 -1,1 -6,0 -1,-1 -1,0 -10,-10 -1,0 -1,-1 -6,0 -1,1 -1,0 -5,5 40,0 z"></path>
+<path style="fill:none;stroke:#FFFFFF;stroke-width:12" d="M 1969,3154 l -5,5 -1,0 -1,1 -6,0 -1,-1 -1,0 -10,-10 -1,0 -1,-1 -6,0 -1,1 -1,0 -5,5"></path>
+<path class="stroke4" d="M 1929,3159 l 5,-5 1,0 1,-1 6,0 1,1 1,0 10,10 1,0 1,1 6,0 1,-1 1,0 5,-5 m -7,379 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0"></path>
+<path class="stroke4" d="M 3373,3538 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0"></path>
+<path class="stroke8" d="M 1840,3551 l 15,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0"></path>
+<path class="stroke8" d="M 3402,3551 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0"></path>
+<path class="stroke8" d="M 4979,3551 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0"></path>
+<path class="stroke8" d="M 6557,3551 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0"></path>
+<path class="stroke8" d="M 8134,3551 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 17,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 23,0 0,14 m 0,18 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,29 m 0,17 l 0,30 m 0,17 l 0,29 m 0,18 l 0,16 -15,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 7599,3879 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0"></path>
+<path class="stroke8" d="M 6022,3879 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 4444,3879 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0"></path>
+<path class="stroke8" d="M 2867,3879 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -17,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -23,0 0,-14 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-29 m 0,-17 l 0,-30 m 0,-17 l 0,-29 m 0,-18 l 0,-16"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 1077,1289 l 0,381 m -110,927 l 0,382 m 328,-382 l 0,464"></path>
+<text class="t3"><tspan x="1551" y="2361">.</tspan>
+</text>
+<text class="t2"><tspan x="1551" y="2397"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('M9');">M9</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="1551" y="2466">Electric fan</tspan>
+</text>
+<path class="white" d="M 1281,2570 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 1294,2570 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 1294,2570 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 1308,2584 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="1333" y="2629"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X82');">X82</a>
+</tspan>
+
+<tspan x="1233" y="2629">2</tspan>
+</text>
+<path class="white" d="M 954,2570 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 967,2570 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 967,2570 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 981,2584 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="1115" y="1430">30&lt;92</tspan>
+
+<tspan x="1115" y="1495">6.0</tspan>
+
+<tspan x="1115" y="1539">RT/BL</tspan>
+
+<tspan x="906" y="2629">1</tspan>
+
+<tspan x="1005" y="2725">31L</tspan>
+
+<tspan x="1005" y="2790">6.0</tspan>
+
+<tspan x="1005" y="2834">BR</tspan>
+</text>
+<path class="stroke8" d="M 981,3006 l -27,0"></path>
+<path class="white" d="M 974,2997 l 6,-1 0,-8 -1,-1 0,-1 -2,-2 0,-1 -1,-1 -1,0 -2,-2 -2,0 -1,-1 -6,0 -1,1 -2,0 -2,2 -1,0 -1,1 0,1 -2,2 0,1 -1,1 0,8 6,1 0,-2 1,-1 0,-1 2,-2 1,0 1,-1 4,0 1,1 1,0 2,2 0,1 1,1 0,2 z"></path>
+<path class="stroke4" d="M 967,2990 l -1,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 3,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -1,0 m -6,2 l 11,0 m -12,2 l 13,0 m -13,2 l 13,0 m -13,2 l 13,0 m -13,1 l 12,0 m -10,2 l 9,0 m -7,2 l 5,0 m -5,-13 l 5,0"></path>
+<text class="t2"><tspan x="1333" y="966"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('F92');">F92</a>
+</tspan>
+
+<tspan x="1142" y="1089">50A</tspan>
+
+<tspan x="1006" y="2970"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X166');">X166</a>
+</tspan>
+</text>
+<path class="stroke8" d="M 967,934 l 14,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path class="stroke4" d="M 1093,1012 l -33,0 0,96 33,0 0,-96 m -16,140 l 0,-140 m -8,-15 l 15,0 m -16,3 l 17,0 m -18,2 l 19,0 m -19,3 l 20,0 m -19,2 l 17,0 m -16,3 l 15,0 m -12,-15 l 9,0 m 1,17 l 4,-4 0,-2 1,-1 0,-3 -1,-1 0,-2 -4,-4 -1,0 -1,-1 -6,0 -1,1 -1,0 -1,1 -1,0 -2,2 0,1 -1,1 0,1 -1,1 0,4 1,1 0,2 1,1 3,2"></path>
+<text class="t2"><tspan x="1057" y="980">30</tspan>
+</text>
+<path class="stroke4" d="M 1077,1152 l 0,109"></path>
+<text class="t3"><tspan x="1551" y="834">.</tspan>
+</text>
+<text class="t2"><tspan x="1551" y="870"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('A4010');">A4010</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="1551" y="939">Junction box</tspan>
+</text>
+<path class="white" d="M 1063,1261 l 27,0 0,28 -27,0 0,-28 z"></path>
+<path class="black" d="M 1076,1262 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 1076,1262 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 1090,1275 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="1115" y="1321"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X11011');">X11011</a>
+</tspan>
+
+<tspan x="1015" y="1321">6</tspan>
+</text>
+<path class="stroke4" d="M 3694,3088 l 0,5 -1,1 0,2 -1,1 0,2 -1,1 0,1 -2,2 0,1 -6,6 -1,0 -2,2 -1,0 -1,1 -2,0 -1,1 -3,0 -1,1 -1700,0 -1,1 -2,0 -1,1 -2,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -1,1 0,1 -1,1 0,1 -1,1 0,1 -1,1 0,3 -1,1 0,5 0,-5 -1,-1 0,-3 -1,-1 0,-1 -1,-1 0,-1 -1,-1 0,-1 -1,-1 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -2,0 -1,-1 -2,0 -1,-1 -1701,0 -1,-1 -2,0 -1,-1 -2,0 -1,-1 -1,0 -2,-2 -1,0 -6,-6 0,-1 -2,-2 0,-1 -1,-1 0,-2 -1,-1 0,-3 -1,-1 0,-4"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 1295,3061 l 0,11"></path>
+<path class="white" d="M 1274,3077 l 5,-5 2,0 1,-1 5,0 1,1 2,0 10,10 1,0 1,1 6,0 1,-1 1,0 5,-5 -41,0 z"></path>
+<path style="fill:none;stroke:#FFFFFF;stroke-width:12" d="M 1274,3077 l 5,-5 2,0 1,-1 5,0 1,1 2,0 10,10 1,0 1,1 6,0 1,-1 1,0 5,-5"></path>
+<path class="stroke4" d="M 1315,3072 l -5,5 -1,0 -1,1 -6,0 -1,-1 -1,0 -10,-10 -2,0 -1,-1 -5,0 -1,1 -2,0 -5,5"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 3367,3061 l 0,11"></path>
+<path class="white" d="M 3346,3077 l 5,-5 2,0 1,-1 5,0 1,1 2,0 10,10 1,0 1,1 6,0 1,-1 1,0 5,-5 -41,0 z"></path>
+<path style="fill:none;stroke:#FFFFFF;stroke-width:12" d="M 3346,3077 l 5,-5 2,0 1,-1 5,0 1,1 2,0 10,10 1,0 1,1 6,0 1,-1 1,0 5,-5"></path>
+<path class="stroke4" d="M 3387,3072 l -5,5 -1,0 -1,1 -6,0 -1,-1 -1,0 -10,-10 -2,0 -1,-1 -5,0 -1,1 -2,0 -5,5"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 3040,2597 l 0,382 m 327,-382 l 0,464"></path>
+<text class="t3"><tspan x="3623" y="2361">.</tspan>
+</text>
+<text class="t2"><tspan x="3623" y="2397"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('M9');">M9</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="3623" y="2466">Electric fan</tspan>
+</text>
+<path class="white" d="M 3353,2570 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 3366,2570 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 3366,2570 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 3380,2584 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="3405" y="2629"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X1797');">X1797</a>
+</tspan>
+
+<tspan x="3305" y="2629">4</tspan>
+</text>
+<path class="white" d="M 3026,2570 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 3039,2570 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 3039,2570 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 3053,2584 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="2978" y="2629">1</tspan>
+
+<tspan x="3077" y="2725">31L</tspan>
+
+<tspan x="3077" y="2790">6.0</tspan>
+
+<tspan x="3077" y="2834">BR</tspan>
+</text>
+<path class="stroke4" d="M 3059,2584 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m -204,-153 l -4,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,10 1,1 0,2 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0 1,1 2,0 1,1 11,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-10 -1,-1 0,-3 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0  -1,-1 -3,0 -1,-1 -4,0 m -41,68 l 79,0 0,-76 -79,0 0,76 m 40,-32 l 0,24 m -21,-25 l 41,0 m -45,-21 l 12,21 m 38,-21 l -12,21 m -27,-2 l -8,-7 6,-3 2,10 m -150,-71 l 327,0 0,136 -327,0 0,-136 m 396,103 l 0,17 -28,0 0,-17 m 49,-35 l 0,-5 -1,-1 0,-4 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -7,-7 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -3,0 -1,-1 -11,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -7,7 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,11 1,1 0,4 1,1 0,2 1,1 0,1 1,1 0,1 1,1 0,1 2,2 0,1 7,7 1,0 2,2 1,0  1,1 1,0 1,1 1,0 1,1 2,0 1,1 3,0 1,1 11,0 1,-1 3,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 7,-7 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-3 1,-1 0,-5 m -25,8 l 0,-19 -9,19 -9,-19 0,19 m -2,8 l 19,0 m -23,32 l 28,0 m -28,-3 l 28,0 m -28,-4 l 28,0 m -28,-3 l 28,0 m -29,-73 l 0,-17 29,0 0,17 m 0,-14 l -29,0 m 29,3 l -29,0 m 29,3 l -29,0 m 29,4 l -29,0 m 15,147 l 0,-27 -109,0 0,-14 m -218,41 l 0,-41 m 163,-177 l 0,41 m 109,8 l 55,0 0,9 m -55,112 l 55,0 0,-9"></path>
+<path class="stroke8" d="M 3053,3006 l -27,0"></path>
+<path class="white" d="M 3046,2997 l 7,-1 0,-8 -1,-1 0,-1 -5,-5 -1,0 -1,-1 -1,0 -1,-1 -7,0 -1,1 -1,0 -1,1 -1,0 -5,5 0,1 -1,1 0,8 6,1 0,-2 1,-1 0,-1 2,-2 1,0 1,-1 4,0 1,1 1,0 2,2 0,1 1,1 0,2 z"></path>
+<path class="stroke4" d="M 3039,2990 l -1,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 3,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -1,0 m -6,2 l 11,0 m -12,2 l 13,0 m -13,2 l 13,0 m -13,2 l 13,0 m -13,1 l 13,0 m -11,2 l 9,0 m -7,2 l 5,0 m -5,-13 l 5,0"></path>
+<text class="t2"><tspan x="3078" y="2970"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X166');">X166</a>
+</tspan>
+</text>
+<path class="stroke4" d="M 987,2584 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m -205,-153 l -4,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -6,6 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,10 1,1 0,2 1,1 0,2 1,1 0,1 1,1 0,1 2,2 0,1 6,6 1,0 2,2 1,0 1,1 1,0 1,1 2,0 1,1 2,0 1,1 11,0 1,-1 2,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 6,-6 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-2 1,-1 0,-10 -1,-1 0,-3 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -6,-6 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -2,0  -1,-1 -3,0 -1,-1 -4,0 m -40,68 l 79,0 0,-76 -79,0 0,76 m 40,-32 l 0,24 m -21,-25 l 41,0 m -45,-21 l 12,21 m 38,-21 l -13,21 m -26,-2 l -8,-7 6,-3 2,10 m -150,-71 l 327,0 0,136 -327,0 0,-136 m 396,103 l 0,17 -29,0 0,-17 m 50,-35 l 0,-5 -1,-1 0,-4 -1,-1 0,-2 -1,-1 0,-1 -1,-1 0,-1 -1,-1 0,-1 -2,-2 0,-1 -7,-7 -1,0 -2,-2 -1,0 -1,-1 -1,0 -1,-1 -1,0 -1,-1 -2,0 -1,-1 -3,0 -1,-1 -11,0 -1,1 -3,0 -1,1 -2,0 -1,1 -1,0 -1,1 -1,0 -1,1 -1,0 -2,2 -1,0 -7,7 0,1 -2,2 0,1 -1,1 0,1 -1,1 0,1 -1,1 0,2 -1,1 0,3 -1,1 0,11 1,1 0,4 1,1 0,2 1,1 0,1 1,1 0,1 1,1 0,1 2,2 0,1 7,7 1,0 2,2 1,0  1,1 1,0 1,1 1,0 1,1 2,0 1,1 3,0 1,1 11,0 1,-1 3,0 1,-1 2,0 1,-1 1,0 1,-1 1,0 1,-1 1,0 2,-2 1,0 7,-7 0,-1 2,-2 0,-1 1,-1 0,-1 1,-1 0,-1 1,-1 0,-2 1,-1 0,-3 1,-1 0,-5 m -25,8 l 0,-19 -9,19 -10,-19 0,19 m -1,8 l 19,0 m -24,32 l 29,0 m -29,-3 l 29,0 m -29,-4 l 29,0 m -29,-3 l 29,0 m -29,-73 l 0,-17 29,0 0,17 m 0,-14 l -29,0 m 29,3 l -29,0 m 29,3 l -29,0 m 29,4 l -29,0 m 15,147 l 0,-27 -109,0 0,-14 m -219,41 l 0,-41 m 164,-177 l 0,41 m 109,8 l 55,0 0,9 m -55,112 l 55,0 0,-9"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 1131,1943 l 0,382"></path>
+<path class="white" d="M 1145,2352 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 1132,2352 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 1132,2352 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 1118,2338 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="1169" y="2084">30&lt;92</tspan>
+
+<tspan x="1169" y="2149">6.0</tspan>
+
+<tspan x="1169" y="2193">RT/BL</tspan>
+
+<tspan x="1070" y="2316">4</tspan>
+
+<tspan x="1169" y="2316"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X82');">X82</a>
+</tspan>
+</text>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 3203,1943 l 0,382"></path>
+<path class="white" d="M 3217,2352 l -27,0 0,-27 27,0 0,27 z"></path>
+<path class="black" d="M 3204,2352 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 3204,2352 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 3190,2338 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="3241" y="2084">30&lt;92</tspan>
+
+<tspan x="3241" y="2149">6.0</tspan>
+
+<tspan x="3241" y="2193">RT/BL</tspan>
+
+<tspan x="3142" y="2316">2</tspan>
+
+<tspan x="3242" y="2316"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X1797');">X1797</a>
+</tspan>
+</text>
+<path class="white" d="M 3189,1916 l 28,0 0,27 -28,0 0,-27 z"></path>
+<path class="black" d="M 3202,1916 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 3202,1916 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 3216,1929 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="3241" y="1975"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X14188');">X14188</a>
+</tspan>
+
+<tspan x="3142" y="1975">5</tspan>
+</text>
+<path class="stroke8" d="M 858,2352 l 655,0 0,218 -655,0 0,-218 m 2072,0 l 655,0 0,218 -655,0 0,-218"></path>
+<text class="t2"><tspan x="788" y="966"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('F28');">F28</a>
+</tspan>
+
+<tspan x="597" y="1089">5A</tspan>
+</text>
+<path class="stroke8" d="M 422,934 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path class="stroke4" d="M 548,1012 l -34,0 0,96 34,0 0,-96 m -17,140 l 0,-140 m -7,-15 l 15,0 m -17,3 l 18,0 m -18,2 l 19,0 m -20,3 l 20,0 m -19,2 l 18,0 m -16,3 l 15,0 m -12,-15 l 9,0 m 1,17 l 4,-4 0,-2 1,-1 0,-3 -1,-1 0,-2 -4,-4 -1,0 -1,-1 -6,0 -1,1 -1,0 -1,1 -1,0 -2,2 0,1 -1,1 0,1 -1,1 0,5 1,1 0,1 1,1 3,2"></path>
+<text class="t2"><tspan x="499" y="980">30G</tspan>
+</text>
+<path class="stroke4" d="M 531,1152 l 0,109 m 545,512 l 3,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -5,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 1,0 m 110,0 l 3,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -5,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 1,0 m -53,143 l 0,-61 2,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -4,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 1,0 m -53,-157 l 0,61 m -627,90 l 0,20 76,0 m -65,-105 l -22,0 0,85 22,0 0,-85 m 38,27 l 64,0 0,31 -64,0 0,-31 m 44,0 l -20,30 m 8,-30 l 0,-93 m  0,218 l 0,-94 m 0,-73 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m -80,15 l 0,-20 87,0 m -10,-3 l 9,0 m -9,6 l 9,0 m -5,128 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 7,-5 l -11,0 m 1,-3 l 9,0 m -9,5 l 9,0 m 27,-65 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0"></path>
+<path class="stroke4" d="M 1182,1773 l -22,34 -24,35"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 531,1943 l 0,1036"></path>
+<path class="white" d="M 517,1916 l 28,0 0,27 -28,0 0,-27 z"></path>
+<path class="black" d="M 530,1916 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 530,1916 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 544,1929 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="470" y="1975">2</tspan>
+
+<tspan x="568" y="2084">31L</tspan>
+
+<tspan x="568" y="2149">0.5</tspan>
+
+<tspan x="568" y="2193">BR</tspan>
+</text>
+<path class="stroke8" d="M 545,3006 l -27,0"></path>
+<path class="white" d="M 538,2997 l 6,-1 0,-8 -1,-1 0,-1 -2,-2 0,-1 -1,-1 -1,0 -2,-2 -2,0 -1,-1 -6,0 -1,1 -2,0 -2,2 -1,0 -1,1 0,1 -2,2 0,1 -1,1 0,8 6,1 0,-2 1,-1 0,-1 2,-2 1,0 1,-1 4,0 1,1 1,0 2,2 0,1 1,1 0,2 z"></path>
+<path class="stroke4" d="M 531,2990 l -2,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 4,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -1,0 m -6,2 l 10,0 m -11,2 l 12,0 m -12,2 l 13,0 m -13,2 l 13,0 m -13,1 l 12,0 m -11,2 l 10,0 m -7,2 l 4,0 m -4,-13 l 5,0"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 695,2788 l -164,0"></path>
+<path class="stroke4" d="M 695,2806 l 40,-18 -40,-19 0,37 m 0,-25 l 24,0 m -24,3 l 31,0 m -31,4 l 40,0 m -40,4 l 31,0 m -31,3 l 23,0 m -23,4 l 15,0 m -15,4 l 7,0 m -7,-26 l 16,0 m -16,-4 l 9,0 m -9,-3 l 1,0"></path>
+<path class="white" d="M 527,2771 l -1,1 -1,0 -1,1 -1,0 -1,1 -1,0 -4,4 0,1 -1,1 0,1 -1,1 0,1 -1,1 0,8 1,1 0,1 1,1 0,1 1,1 0,1 4,4 1,0 1,1 1,0 1,1 1,0 1,1 8,0 1,-1 1,0 1,-1 1,0 1,-1 1,0 4,-4 0,-1 1,-1 0,-1 1,-1 0,-1 1,-1 0,-8 -1,-1 0,-1 -1,-1 0,-1 -1,-1 0,-1 -4,-4 -1,0 -1,-1 -1,0 -1,-1 -1,0 -1,-1 -8,0 z"></path>
+<path class="stroke4" d="M 531,2781 l -2,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 4,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -1,0 m -6,3 l 10,0 m -11,1 l 13,0 m -14,2 l 14,0 m -14,2 l 14,0 m -13,2 l 13,0 m -12,2 l 11,0 m -9,1 l 7,0 m -7,-12 l 7,0"></path>
+<text class="t2"><tspan x="569" y="2752"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X219');">X219</a>
+</tspan>
+</text>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 531,1289 l 0,381"></path>
+<text class="t2"><tspan x="569" y="1430">30G&lt;28</tspan>
+
+<tspan x="569" y="1495">0.5</tspan>
+
+<tspan x="569" y="1539">RT/GN</tspan>
+</text>
+<path class="white" d="M 517,1261 l 28,0 0,28 -28,0 0,-28 z"></path>
+<path class="black" d="M 530,1262 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 530,1262 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 544,1275 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="569" y="1321"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X11003');">X11003</a>
+</tspan>
+
+<tspan x="470" y="1321">8</tspan>
+</text>
+<path class="stroke8" d="M 313,825 l 15,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 15,0 0,15 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,30 m 0,19 l 0,30"></path>
+<path class="stroke8" d="M 1513,1196 l 0,30 m 0,18 l 0,17 -15,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -15,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-30"></path>
+<path class="stroke8" d="M 313,938 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-17"></path>
+<path class="white" d="M 545,1698 l -27,0 0,-28 27,0 0,28 z"></path>
+<path class="black" d="M 532,1697 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 532,1697 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 518,1684 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="470" y="1662">1</tspan>
+</text>
+<path class="white" d="M 1090,1698 l -27,0 0,-28 27,0 0,28 z"></path>
+<path class="black" d="M 1077,1697 l -1,0 0,-11 1,0 0,11 z"></path>
+<path class="stroke4" d="M 1077,1697 l -1,0 0,-11 1,0 0,11"></path>
+<path class="stroke6" d="M 1063,1684 l 0,-3 1,-1 0,-1 1,-1 0,-1 4,-4 1,0 1,-1 1,0 1,-1 7,0 1,1 1,0 1,1 1,0 4,4 0,1 1,1 0,1 1,1 0,3"></path>
+<text class="t2"><tspan x="1115" y="1662"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X14188');">X14188</a>
+</tspan>
+
+<tspan x="1015" y="1662">3</tspan>
+</text>
+<path class="stroke4" d="M 544,1684 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 30,0 m -517,245 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0"></path>
+<path class="white" d="M 1117,1916 l 28,0 0,27 -28,0 0,-27 z"></path>
+<path class="black" d="M 1130,1916 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 1130,1916 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 1144,1929 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="1169" y="1975"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X14188');">X14188</a>
+</tspan>
+
+<tspan x="1070" y="1975">5</tspan>
+</text>
+<path class="stroke8" d="M 313,1698 l 1091,0 0,218 -1091,0 0,-218"></path>
+<text class="t3"><tspan x="1442" y="1707">.</tspan>
+</text>
+<text class="t2"><tspan x="1442" y="1743"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('K9137');">K9137</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="1442" y="1812">Cut-out relay, elec-</tspan>
+
+<tspan x="1442" y="1856">tric fan</tspan>
+</text>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 3149,1289 l 0,381"></path>
+<text class="t2"><tspan x="3405" y="966"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('F92');">F92</a>
+</tspan>
+
+<tspan x="3214" y="1089">60A</tspan>
+
+<tspan x="3187" y="1430">30&lt;92</tspan>
+
+<tspan x="3187" y="1495">6.0</tspan>
+
+<tspan x="3187" y="1539">RT/BL</tspan>
+</text>
+<path class="stroke8" d="M 3040,934 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path class="stroke4" d="M 3165,1012 l -33,0 0,96 33,0 0,-96 m -16,140 l 0,-140 m -8,-15 l 15,0 m -16,3 l 17,0 m -18,2 l 19,0 m -19,3 l 20,0 m -19,2 l 17,0 m -16,3 l 15,0 m -12,-15 l 9,0 m 1,17 l 4,-4 0,-2 1,-1 0,-3 -1,-1 0,-2 -4,-4 -1,0 -1,-1 -6,0 -1,1 -1,0 -1,1 -1,0 -2,2 0,1 -1,1 0,1 -1,1 0,4 1,1 0,2 1,1 4,2"></path>
+<text class="t2"><tspan x="3129" y="980">30</tspan>
+</text>
+<path class="stroke4" d="M 3149,1152 l 0,109"></path>
+<text class="t3"><tspan x="3623" y="834">.</tspan>
+</text>
+<text class="t2"><tspan x="3623" y="870"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('A4010');">A4010</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="3623" y="939">Junction box</tspan>
+</text>
+<path class="white" d="M 3135,1261 l 27,0 0,28 -27,0 0,-28 z"></path>
+<path class="black" d="M 3148,1262 l 1,0 0,11 -1,0 0,-11 z"></path>
+<path class="stroke4" d="M 3148,1262 l 1,0 0,11 -1,0 0,-11"></path>
+<path class="stroke6" d="M 3162,1275 l 0,3 -1,1 0,1 -1,1 0,1 -4,4 -1,0 -1,1 -1,0 -1,1 -7,0 -1,-1 -1,0 -1,-1 -1,0 -4,-4 0,-1 -1,-1 0,-1 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="2860" y="966"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('F28');">F28</a>
+</tspan>
+
+<tspan x="2669" y="1089">5A</tspan>
+
+<tspan x="3087" y="1321">6</tspan>
+
+<tspan x="3187" y="1321"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X11011');">X11011</a>
+</tspan>
+</text>
+<path class="stroke8" d="M 2494,934 l 14,0 m 18,0 l 29,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 30,0 m 17,0 l 29,0 m 18,0 l 29,0 m 17,0 l 16,0 0,13 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,28 m 0,16 l 0,27 m 0,16 l 0,15 -14,0 m -18,0 l -29,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -30,0 m -17,0 l -29,0 m -18,0 l -29,0 m -17,0 l -16,0 0,-13 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-28 m 0,-16 l 0,-27 m 0,-16 l 0,-15"></path>
+<path class="stroke4" d="M 2620,1012 l -33,0 0,96 33,0 0,-96 m -17,140 l 0,-140 m -7,-15 l 15,0 m -16,3 l 17,0 m -18,2 l 19,0 m -19,3 l 19,0 m -19,2 l 18,0 m -16,3 l 15,0 m -12,-15 l 9,0 m 1,17 l 4,-4 0,-2 1,-1 0,-3 -1,-1 0,-2 -4,-4 -1,0 -1,-1 -6,0 -1,1 -1,0 -1,1 -1,0 -2,2 0,1 -1,1 0,1 -1,1 0,4 1,1 0,2 1,1 3,2"></path>
+<text class="t2"><tspan x="2571" y="980">30G</tspan>
+</text>
+<path class="stroke4" d="M 2603,1152 l 0,109 m 545,512 l 3,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -5,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 1,0 m 110,0 l 3,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -5,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 1,0 m -53,143 l 0,-61 2,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -4,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 1,0 m -53,-157 l 0,61 m -627,90 l 0,20 76,0 m -64,-105 l -23,0 0,85 23,0 0,-85 m 37,27 l 64,0 0,31 -64,0 0,-31 m 44,0 l -20,30 m 8,-30 l 0,-93 m  0,218 l 0,-94 m 0,-73 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m -80,15 l 0,-20 87,0 m -10,-3 l 9,0 m -9,6 l 9,0 m -5,128 l 2,0 1,-1 1,0 1,-1 0,-1 1,-1 0,-3 -1,-1 0,-1 -1,-1 -1,0 -1,-1 -3,0 -1,1 -1,0 -1,1 0,1 -1,1 0,3 1,1 0,1 1,1 1,0 1,1 m 7,-5 l -11,0 m 1,-3 l 9,0 m -9,5 l 9,0 m 27,-65 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0 m 14,0 l 29,0 m 14,0 l 30,0"></path>
+<path class="stroke4" d="M 3254,1773 l -22,34 -24,35"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 2603,1943 l 0,1036"></path>
+<path class="white" d="M 2590,1916 l 27,0 0,27 -27,0 0,-27 z"></path>
+<path class="black" d="M 2602,1916 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 2602,1916 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 2616,1929 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="2542" y="1975">2</tspan>
+
+<tspan x="2640" y="2084">31L</tspan>
+
+<tspan x="2640" y="2149">0.5</tspan>
+
+<tspan x="2640" y="2193">BR</tspan>
+</text>
+<path class="stroke8" d="M 2617,3006 l -27,0"></path>
+<path class="white" d="M 2610,2997 l 6,-1 0,-8 -1,-1 0,-1 -2,-2 0,-1 -1,-1 -1,0 -2,-2 -2,0 -1,-1 -6,0 -1,1 -2,0 -2,2 -1,0 -1,1 0,1 -2,2 0,1 -1,1 0,8 6,1 0,-2 1,-1 0,-1 2,-2 1,0 1,-1 4,0 1,1 1,0 2,2 0,1 1,1 0,2 z"></path>
+<path class="stroke4" d="M 2603,2990 l -2,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 4,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -1,0 m -6,2 l 10,0 m -11,2 l 13,0 m -13,2 l 13,0 m -13,2 l 13,0 m -13,1 l 12,0 m -11,2 l 10,0 m -7,2 l 4,0 m -4,-13 l 5,0"></path>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 2767,2788 l -164,0"></path>
+<path class="stroke4" d="M 2767,2806 l 40,-18 -40,-19 0,37 m 0,-25 l 24,0 m -24,3 l 31,0 m -31,4 l 40,0 m -40,4 l 31,0 m -31,3 l 23,0 m -23,4 l 15,0 m -15,4 l 7,0 m -7,-26 l 16,0 m -16,-4 l 9,0 m -9,-3 l 2,0"></path>
+<path class="white" d="M 2600,2771 l -1,1 -2,0 -1,1 -1,0 -5,5 0,1 -2,2 0,2 -1,1 0,8 1,1 0,2 1,1 0,1 6,6 1,0 1,1 2,0 1,1 7,0 1,-1 2,0 1,-1 1,0 6,-6 0,-1 1,-1 0,-2 1,-1 0,-8 -1,-1 0,-2 -2,-2 0,-1 -5,-5 -1,0 -1,-1 -2,0 -1,-1 -7,0 z"></path>
+<path class="stroke4" d="M 2603,2781 l -2,0 -1,1 -1,0 -2,2 0,1 -1,1 0,4 1,1 0,1 2,2 1,0 1,1 5,0 1,-1 1,0 2,-2 0,-1 1,-1 0,-4 -1,-1 0,-1 -2,-2 -1,0 -1,-1 -2,0 m -6,3 l 10,0 m -11,1 l 13,0 m -14,2 l 14,0 m -14,2 l 15,0 m -14,2 l 13,0 m -12,2 l 11,0 m -9,1 l 7,0 m -7,-12 l 7,0"></path>
+<text class="t2"><tspan x="2642" y="2752"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X219');">X219</a>
+</tspan>
+</text>
+<path style="fill:none;stroke:#000000;stroke-width:15" d="M 2603,1289 l 0,381"></path>
+<text class="t2"><tspan x="2642" y="1430">30G&lt;28</tspan>
+
+<tspan x="2642" y="1495">0.5</tspan>
+
+<tspan x="2642" y="1539">RT/GN</tspan>
+</text>
+<path class="white" d="M 2590,1261 l 27,0 0,28 -27,0 0,-28 z"></path>
+<path class="black" d="M 2602,1262 l 2,0 0,11 -2,0 0,-11 z"></path>
+<path class="stroke4" d="M 2602,1262 l 2,0 0,11 -2,0 0,-11"></path>
+<path class="stroke6" d="M 2616,1275 l 0,3 -1,1 0,2 -6,6 -2,0 -1,1 -6,0 -1,-1 -2,0 -6,-6 0,-2 -1,-1 0,-3"></path>
+<text class="t2"><tspan x="2642" y="1321"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X11003');">X11003</a>
+</tspan>
+
+<tspan x="2542" y="1321">8</tspan>
+</text>
+<path class="stroke8" d="M 2385,825 l 15,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 30,0 m 18,0 l 15,0 0,15 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,31 m 0,18 l 0,30 m 0,18 l 0,30 m 0,18 l 0,30 m 0,19 l 0,30"></path>
+<path class="stroke8" d="M 3585,1196 l 0,30 m 0,18 l 0,17 -15,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -30,0 m -18,0 l -15,0 0,-15 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-31 m 0,-18 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-30"></path>
+<path class="stroke8" d="M 2385,938 l 0,-30 m 0,-18 l 0,-30 m 0,-18 l 0,-17"></path>
+<path class="white" d="M 2617,1698 l -27,0 0,-28 27,0 0,28 z"></path>
+<path class="black" d="M 2604,1697 l -1,0 0,-11 1,0 0,11 z"></path>
+<path class="stroke4" d="M 2604,1697 l -1,0 0,-11 1,0 0,11"></path>
+<path class="stroke6" d="M 2590,1684 l 0,-3 1,-1 0,-2 6,-6 2,0 1,-1 6,0 1,1 2,0 6,6 0,2 1,1 0,3"></path>
+<text class="t2"><tspan x="2542" y="1662">1</tspan>
+</text>
+<path class="white" d="M 3162,1698 l -27,0 0,-28 27,0 0,28 z"></path>
+<path class="black" d="M 3150,1697 l -2,0 0,-11 2,0 0,11 z"></path>
+<path class="stroke4" d="M 3150,1697 l -2,0 0,-11 2,0 0,11"></path>
+<path class="stroke6" d="M 3135,1684 l 0,-3 1,-1 0,-1 1,-1 0,-1 4,-4 1,0 1,-1 1,0 1,-1 7,0 1,1 1,0 1,1 1,0 4,4 0,1 1,1 0,1 1,1 0,3"></path>
+<text class="t2"><tspan x="3187" y="1662"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('X14188');">X14188</a>
+</tspan>
+
+<tspan x="3087" y="1662">3</tspan>
+</text>
+<path class="stroke4" d="M 2616,1684 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 30,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 30,0 m -517,245 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0 m 15,0 l 30,0 m 14,0 l 31,0 m 14,0 l 30,0"></path>
+<path class="stroke8" d="M 2385,1698 l 1091,0 0,218 -1091,0 0,-218"></path>
+<text class="t3"><tspan x="3514" y="1707">.</tspan>
+</text>
+<text class="t2"><tspan x="3514" y="1743"><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="replace" xlink:actuate="onRequest" xlink:href="javascript:locateTree('K9137');">K9137</a>
+</tspan>
+</text>
+<text class="t2"><tspan x="3514" y="1812">Cut-out relay, elec-</tspan>
+
+<tspan x="3514" y="1856">tric fan</tspan>
+</text>
+</g>
+</svg>
+</g></svg>
